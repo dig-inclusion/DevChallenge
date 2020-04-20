@@ -1,0 +1,27 @@
+{
+  "name": "devchallenge",
+  "version": "1.0.0",
+  "description": "Developer coding challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dig-inclusion/DevChallenge.git"
+  },
+  "author": "Dig Inclusion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dig-inclusion/DevChallenge/issues"
+  },
+  "homepage": "https://github.com/dig-inclusion/DevChallenge#readme",
+  "devDependencies": {
+    "apollo-cache-inmemory": "^1.6.5",
+    "apollo-client": "^2.6.8",
+    "apollo-link-http": "^1.5.17",
+    "graphql-tag": "^2.10.3",
+    "jest": "^25.4.0",
+    "node-fetch": "^2.6.0"
+  }
+}

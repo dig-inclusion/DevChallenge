@@ -1,0 +1,12 @@
+[
+  {
+    "slug": "plants",
+    "name": "Plants",
+    "description": "Our selection of house plants"
+  },
+  {
+    "slug": "accessories",
+    "name": "Accessories & paraphernalia",
+    "description": "Other stuff you might need"
+  }
+]
