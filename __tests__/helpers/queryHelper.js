@@ -7,3 +7,7 @@ async function runQuery(query, variables) {
   });
   return res;
 }
+
+module.exports = {
+  runQuery
+}
