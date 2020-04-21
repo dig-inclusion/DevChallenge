@@ -1,22 +1,22 @@
 [
   {
-    "sku": "HP1"
-    "name": "Ficus Lyrata"
-    "description": "Ficus lyrata, commonly known as the fiddle-leaf fig, is a species of flowering plant in the mulberry and fig family Moraceae. It is native to western Africa, from Cameroon west to Sierra Leone, where it grows in lowland tropical rainforest. It can grow up to 12–15 m (39–49 ft) tall."
+    "sku": "HP1",
+    "name": "Ficus Lyrata",
+    "description": "Ficus lyrata, commonly known as the fiddle-leaf fig, is a species of flowering plant in the mulberry and fig family Moraceae. It is native to western Africa, from Cameroon west to Sierra Leone, where it grows in lowland tropical rainforest. It can grow up to 12–15 m (39–49 ft) tall.",
     "category": "plants",
     "stock": 5
   },
   {
-    "sku": "HP2"
-    "name": "Monstera Deliciosa"
-    "description": "Monstera deliciosa, also known as the Swiss cheese plant, is a species of flowering plant native to tropical forests of southern Mexico, south to Panama.[1] It has been introduced to many tropical areas, and has become a mildly invasive species in Hawaii, Seychelles, Ascension Island and the Society Islands."
+    "sku": "HP2",
+    "name": "Monstera Deliciosa",
+    "description": "Monstera deliciosa, also known as the Swiss cheese plant, is a species of flowering plant native to tropical forests of southern Mexico, south to Panama.[1] It has been introduced to many tropical areas, and has become a mildly invasive species in Hawaii, Seychelles, Ascension Island and the Society Islands.",
     "category": "plants",
     "stock": 25
   },
   {
-    "sku": "SO1"
-    "name": "Soil"
-    "description": "Just dirt, basically"
+    "sku": "SO1",
+    "name": "Soil",
+    "description": "Just dirt, basically",
     "category": "accessories",
     "stock": 0
   }
